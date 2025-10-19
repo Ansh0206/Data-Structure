@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
 |  |
@@ -77,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+## Two Pointers
+|  |
+| ------- |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 <!---LeetCode Topics End-->
