@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Binary Search
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -80,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Math
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [2630-alternating-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2630-alternating-digit-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
