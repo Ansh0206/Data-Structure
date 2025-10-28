@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ansh0206/Data-Structure/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
