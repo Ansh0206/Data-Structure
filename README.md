@@ -159,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
