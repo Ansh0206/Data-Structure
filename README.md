@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ansh0206/Data-Structure/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 ## String
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
 ## Simulation
 |  |
