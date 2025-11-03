@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ansh0206/Data-Structure/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ansh0206/Data-Structure/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ansh0206/Data-Structure/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Stack
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Ansh0206/Data-Structure/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ansh0206/Data-Structure/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ansh0206/Data-Structure/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Design
 |  |
