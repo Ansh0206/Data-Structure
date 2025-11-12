@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ansh0206/Data-Structure/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ansh0206/Data-Structure/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Ansh0206/Data-Structure/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ansh0206/Data-Structure/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Ansh0206/Data-Structure/tree/master/2551-apply-operations-to-an-array) |
+| [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 ## Design
 |  |
 | ------- |
