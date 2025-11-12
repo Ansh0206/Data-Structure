@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh0206/Data-Structure/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2481-strictly-palindromic-number](https://github.com/Ansh0206/Data-Structure/tree/master/2481-strictly-palindromic-number) |
+| [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2630-alternating-digit-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ansh0206/Data-Structure/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -255,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
