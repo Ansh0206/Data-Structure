@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ansh0206/Data-Structure/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [4107-find-missing-elements](https://github.com/Ansh0206/Data-Structure/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
