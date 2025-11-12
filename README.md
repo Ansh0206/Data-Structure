@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
@@ -115,10 +116,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Depth-First Search
 |  |
 | ------- |
