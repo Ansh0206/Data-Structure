@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
+| [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
