@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Ansh0206/Data-Structure/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -304,4 +305,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
