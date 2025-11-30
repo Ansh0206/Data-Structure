@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ansh0206/Data-Structure/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1143-longest-common-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/1143-longest-common-subsequence) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Ansh0206/Data-Structure/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
