@@ -6,12 +6,6 @@ class Solution {
         int m=obstacleGrid.length;
         int n=obstacleGrid[0].length;
         int[][] dp=new int[m+1][n+1];
-        for(int i=0;i<dp.length;i++){
-            dp[i][0]=0;
-        }
-        for(int i=0;i<dp[0].length;i++){
-            dp[0][i]=0;
-        }
         for(int i=1;i<m+1;i++){
             for(int j=1;j<n+1;j++){
                 if(i==1 && j==1){
