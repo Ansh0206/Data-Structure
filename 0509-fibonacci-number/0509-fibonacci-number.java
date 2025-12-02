@@ -10,9 +10,6 @@ class Solution {
             last1=last2;
             last2=ans;
         }
-        return last2;
-
-
-        
+        return last2; 
     }
 }
