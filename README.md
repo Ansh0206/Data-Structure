@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ansh0206/Data-Structure/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
+| [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/2398-check-if-matrix-is-x-matrix) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Ansh0206/Data-Structure/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Ansh0206/Data-Structure/tree/master/0784-letter-case-permutation) |
+| [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
 ## Bit Manipulation
 |  |
 | ------- |
