@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0174-dungeon-game](https://github.com/Ansh0206/Data-Structure/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
+| [0174-dungeon-game](https://github.com/Ansh0206/Data-Structure/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
+| [0174-dungeon-game](https://github.com/Ansh0206/Data-Structure/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
