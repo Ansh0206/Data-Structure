@@ -1,29 +1,29 @@
 class Solution {
-    public int helper(int[] coins,int amount,int i,Integer[][] dp){
-        if(amount==0){
-            return 0;
-        }
-        if(amount<0 || i==coins.length){
-            return Integer.MAX_VALUE;
-        }
-        if(dp[i][amount]!=null){
-            return dp[i][amount];
-        }
-        int same=helper(coins,amount-coins[i],i,dp);
-        if(same!=Integer.MAX_VALUE){
-            same+=1;
-        }
-        int different=helper(coins,amount,i+1,dp);
-        dp[i][amount]=Math.min(same,different);
-        return dp[i][amount];
-    }
     public int coinChange(int[] coins, int amount) {
-        Integer[][] dp=new Integer[coins.length][amount+1];
-        int ans=helper(coins,amount,0,dp);
-        if(ans==Integer.MAX_VALUE){
+        int[][] dp=new int[coins.length][amount+1];
+        dp[0][0]=0;
+        for(int i=1;i<dp[0].length;i++){
+            if(i%coins[0]!=0){
+                dp[0][i]=Integer.MAX_VALUE;
+            }else{
+                dp[0][i]=i/coins[0];
+            }
+        }
+        for(int i=1;i<dp.length;i++){
+            for(int j=1;j<dp[0].length;j++){
+                int notPick=dp[i-1][j];
+                int pick=Integer.MAX_VALUE;
+                if(j>=coins[i] && dp[i][j-coins[i]]!=Integer.MAX_VALUE){
+                    pick=1+dp[i][j-coins[i]];
+                }
+                dp[i][j]=Math.min(pick,notPick);
+            }
+        }
+        if(dp[dp.length-1][dp[0].length-1]==Integer.MAX_VALUE){
             return -1;
         }
-        return ans;
+        return dp[dp.length-1][dp[0].length-1];
+
         
     }
 }
