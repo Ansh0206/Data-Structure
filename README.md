@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
+| [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 ## Graph
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Ansh0206/Data-Structure/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0518-coin-change-ii) |
