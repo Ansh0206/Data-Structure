@@ -1,25 +1,25 @@
 class Solution {
-    public int change(int amount, int[] coins) {
+    public int helper(int amount,int[] coins,int i,int[][] dp){
         if(amount==0){
             return 1;
         }
-        int n=coins.length;
-        int[][] dp=new int[n+1][amount+1];
-        for(int i=0;i<dp.length;i++){
-            dp[i][0]=1;
+        if(i<0 || amount<0){
+            return 0;
         }
-        for(int i=1;i<dp[0].length;i++){
-            dp[0][i]=0;
+        if(dp[i][amount]!=-1){
+            return dp[i][amount];
         }
-        for(int i=1;i<dp.length;i++){
-            for(int j=1;j<dp[0].length;j++){
-                if(coins[i-1]<=j){
-                    dp[i][j]=dp[i][j-coins[i-1]]+dp[i-1][j];
-                }else{
-                    dp[i][j]=dp[i-1][j];
-                }
-            }
+
+        int same=helper(amount-coins[i],coins,i,dp);
+        int diff=helper(amount,coins,i-1,dp);
+        return dp[i][amount]=same+diff;
+    }
+    public int change(int amount, int[] coins) {
+        int[][] dp=new int[coins.length][amount+1];
+        for(int[] arr : dp){
+            Arrays.fill(arr,-1);
         }
-        return dp[dp.length-1][dp[0].length-1];
+        return helper(amount,coins,coins.length-1,dp);
+        
     }
 }
