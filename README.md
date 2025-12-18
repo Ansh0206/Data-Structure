@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ansh0206/Data-Structure/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ansh0206/Data-Structure/tree/master/0072-edit-distance) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0516-longest-palindromic-subsequence) |
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Ansh0206/Data-Structure/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Ansh0206/Data-Structure/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Ansh0206/Data-Structure/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Ansh0206/Data-Structure/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Ansh0206/Data-Structure/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0064-minimum-path-sum) |
