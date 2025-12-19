@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
 | [2727-number-of-senior-citizens](https://github.com/Ansh0206/Data-Structure/tree/master/2727-number-of-senior-citizens) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ansh0206/Data-Structure/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3019-number-of-changing-keys](https://github.com/Ansh0206/Data-Structure/tree/master/3019-number-of-changing-keys) |
 | [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
 ## Simulation
