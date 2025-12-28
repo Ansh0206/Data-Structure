@@ -1,21 +1,21 @@
 class Solution {
-    public int helper(int[] nums,int i,Integer[] dp){
-        if(i>=nums.length){
-            return 0;
-        }
-        if(dp[i]!=null){
-            return dp[i];
-        }
-        //rob the house
-        int rob=nums[i]+helper(nums,i+2,dp);
-        //not rob
-        int notRob=helper(nums,i+1,dp);
-        return dp[i]=Math.max(rob,notRob);
-    }
     public int rob(int[] nums) {
         int n=nums.length;
-        Integer[] dp=new Integer[n];
-        return helper(nums,0,dp);
+        int[] dp=new int[n];
+        if(n==1){
+            return nums[0];
+        }
+        if(n==2){
+            return Math.max(nums[0],nums[1]);
+        }
+        dp[0]=nums[0];
+        dp[1]=Math.max(nums[0],nums[1]);
+        for(int i=2;i<n;i++){
+            int take=nums[i]+dp[i-2];
+            int not=dp[i-1];
+            dp[i]=Math.max(take,not);
+        }
+        return dp[n-1];
         
     }
 }
