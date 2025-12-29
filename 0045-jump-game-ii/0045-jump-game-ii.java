@@ -9,15 +9,14 @@ class Solution {
         if(dp[i]!=null){
             return dp[i];
         }
-        dp[i]=Integer.MAX_VALUE;
-        for(int j=1;j<=nums[i];j++){
+        int min=Integer.MAX_VALUE;
+        for(int j=1;j<=nums[i] && i+j<nums.length;j++){
             int ans=helper(nums,i+j,dp);
             if(ans!=Integer.MAX_VALUE){
-                ans+=1;
+                min=Math.min(min,ans+1);
             }
-            dp[i]=Math.min(ans,dp[i]);
         }
-        return dp[i];
+        return dp[i]=min;
     }
     public int jump(int[] nums) {
         Integer[] dp=new Integer[nums.length];
