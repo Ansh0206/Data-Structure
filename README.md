@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ansh0206/Data-Structure/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ansh0206/Data-Structure/tree/master/0096-unique-binary-search-trees) |
+| [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ansh0206/Data-Structure/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Ansh0206/Data-Structure/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Ansh0206/Data-Structure/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
