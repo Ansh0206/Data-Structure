@@ -25,7 +25,7 @@ class Solution {
     }
     public int numDupDigitsAtMostN(int n) {
         String s=String.valueOf(n);
-        dp=new Integer[11][2][2][1024][2];
+        dp=new Integer[10][2][2][1024][2];
         return helper(s,0,1,0,0,1);  //index,tight,repeated,masking,leading zeroes
         
     }
