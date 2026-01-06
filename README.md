@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ansh0206/Data-Structure/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Ansh0206/Data-Structure/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0113-path-sum-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Ansh0206/Data-Structure/tree/master/0784-letter-case-permutation) |
 | [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0516-longest-palindromic-subsequence) |
