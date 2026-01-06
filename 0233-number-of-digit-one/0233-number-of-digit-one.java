@@ -1,6 +1,5 @@
 class Solution {
     Integer[][][] dp;
-    static  final int size=10;
     public int helper(String s,int i,int tight,int count){
         if(i==s.length()){
             return count;
@@ -23,7 +22,8 @@ class Solution {
     }
     public int countDigitOne(int n) {
         String s=String.valueOf(n);
-        dp=new Integer[size][2][size];
+        int sz=s.length();
+        dp=new Integer[sz][2][sz+1];
         return helper(s,0,1,0);
         
     }
