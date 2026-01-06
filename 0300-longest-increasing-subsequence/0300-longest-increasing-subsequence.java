@@ -15,17 +15,19 @@ class Solution {
 // }
     public int lengthOfLIS(int[] nums) {
         int n=nums.length;
-        int[][] dp=new int[n+1][n+1];
+        int[] prevArr=new int[n+1];
+        int[] currArr=new int[n+1];
         for(int curr=n-1;curr>=0;curr--){
             for(int prev=curr-1;prev>=-1;prev--){
                 int take=0;
                 if(prev==-1 || nums[curr]>nums[prev]){
-                    take=1+dp[curr+1][curr+1];
+                    take=1+prevArr[curr+1];
                 }
-                int not=dp[curr+1][prev+1];
-                dp[curr][prev+1]=Math.max(take,not);
+                int not=prevArr[prev+1];
+                currArr[prev+1]=Math.max(take,not);
             }
+            prevArr=currArr.clone();
         }
-        return dp[0][0];
+        return prevArr[0];
     }
 }
