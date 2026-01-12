@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/Ansh0206/Data-Structure/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ansh0206/Data-Structure/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ansh0206/Data-Structure/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1049-last-stone-weight-ii) |
 | [1143-longest-common-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Ansh0206/Data-Structure/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Memoization
 |  |
