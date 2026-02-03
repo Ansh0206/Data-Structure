@@ -3,14 +3,13 @@ class Solution {
         if(n==1){
             return 1;
         }
-        int[] in=new int[n+1];
-        int[] out=new int[n+1];
-        for(int[] arr : trust){
-            in[arr[1]]++;
-            out[arr[0]]++;
+        int[] arr=new int[n+1];
+        for(int[] ar : trust){
+            arr[ar[1]]++;
+            arr[ar[0]]--;
         }
-        for(int i=0;i<in.length;i++){
-            if(in[i]==n-1 && out[i]==0){
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==n-1){
                 return i;
             }
         }
