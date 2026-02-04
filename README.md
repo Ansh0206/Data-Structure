@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ansh0206/Data-Structure/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ansh0206/Data-Structure/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
+| [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [1200-minimum-absolute-difference](https://github.com/Ansh0206/Data-Structure/tree/master/1200-minimum-absolute-difference) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ansh0206/Data-Structure/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/Ansh0206/Data-Structure/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
+| [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh0206/Data-Structure/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -282,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ansh0206/Data-Structure/tree/master/0016-3sum-closest) |
+| [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ansh0206/Data-Structure/tree/master/2231-find-first-palindromic-string-in-the-array) |
