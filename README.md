@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ansh0206/Data-Structure/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ansh0206/Data-Structure/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ansh0206/Data-Structure/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ansh0206/Data-Structure/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Ansh0206/Data-Structure/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ansh0206/Data-Structure/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Ansh0206/Data-Structure/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2406-decode-the-message](https://github.com/Ansh0206/Data-Structure/tree/master/2406-decode-the-message) |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
 ## String
