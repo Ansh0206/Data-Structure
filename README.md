@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ansh0206/Data-Structure/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh0206/Data-Structure/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0994-rotting-oranges](https://github.com/Ansh0206/Data-Structure/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1049-last-stone-weight-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Ansh0206/Data-Structure/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ansh0206/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
+| [0994-rotting-oranges](https://github.com/Ansh0206/Data-Structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1219-path-with-maximum-gold](https://github.com/Ansh0206/Data-Structure/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Ansh0206/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Ansh0206/Data-Structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
