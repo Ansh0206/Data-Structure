@@ -8,16 +8,12 @@ class Solution {
         if(i<0 || j<0 || i==rowL || j==colL || board[i][j]=='X'){
             return;
         }
-        if(vis[i][j]){
+        if(vis[i][j]==true){
             return;
         }
         vis[i][j]=true;
-        for(int index=0;index<=3;index++){
-            int row=i+dr[index];
-            int col=j+dc[index];
-            dfs(board,vis,row,col);
-
-                
+        for(int index=0;index<4;index++){
+            dfs(board,vis,i+dr[index],j+dc[index]);
         }
     }
     public void solve(char[][] board) {
@@ -26,22 +22,18 @@ class Solution {
         boolean[][] vis=new boolean[rowL][colL];
         for(int i=0;i<rowL;i++){
             for(int j=0;j<colL;j++){
-                if((i==0 || j==0 || i==rowL-1 || j==colL-1) && board[i][j]=='O' && !vis[i][j]){
+                if((i==0 || j==0 || i==rowL-1 || j==colL-1) &&board[i][j]=='O'){
                     dfs(board,vis,i,j);
                 }
             }
         }
-
         for(int i=0;i<rowL;i++){
             for(int j=0;j<colL;j++){
-                if(board[i][j]=='O' && vis[i][j]==false){
+                if(vis[i][j]==false && board[i][j]=='O'){
                     board[i][j]='X';
                 }
-                
             }
         }
-    
-
         
     }
 }
