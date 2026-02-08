@@ -18,19 +18,16 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         rowL=grid.length;
         colL=grid[0].length;
-        //boolean[][] vis=new booleqan[rowl][colL];
-
-        int fresh=0;
         Queue<Pair> q=new LinkedList<>();
-
-        //add all the rooten orange into the queue
+        int fresh=0;
         for(int i=0;i<rowL;i++){
             for(int j=0;j<colL;j++){
-                if(grid[i][j]==2){   //2-->rotten ornges
+                if(grid[i][j]==2){
+                    //rotten orange
                     q.offer(new Pair(i,j,0));
-                }else if(grid[i][j]==1){    //1-->fresh oranges
+                }else if(grid[i][j]==1){
                     fresh++;
-                }  
+                }
             }
         }
         if(fresh==0){
@@ -44,25 +41,18 @@ class Solution {
             int time=curr.time;
 
             maxTime=Math.max(maxTime,time);
-            // if(fresh==0){
-            //     break;
-            // }
 
-            for(int i=0;i<4;i++){
-                int newRow=row+dr[i];
-                int newCol=col+dc[i];
-
-                //check valid and add into queue
-                if(newRow>=0 && newCol>=0 && newRow<rowL && newCol<colL && grid[newRow][newCol]==1){
-                    grid[newRow][newCol]=2;
+            
+            for(int index=0;index<4;index++){
+                int nRow=row+dr[index];
+                int nCol=col+dc[index];
+                if(nRow>=0 && nCol>=0 && nRow<rowL && nCol<colL && grid[nRow][nCol]==1){
+                    q.offer(new Pair(nRow,nCol,time+1));
+                    grid[nRow][nCol]=2;
                     fresh--;
-                    q.offer(new Pair(newRow,newCol,time+1));
                 }
             }
-
         }
-        return(fresh==0)? maxTime : -1;
-
-        
+        return(fresh==0)? maxTime : -1;  
     }
 }
