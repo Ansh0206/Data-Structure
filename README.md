@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ansh0206/Data-Structure/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ansh0206/Data-Structure/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ansh0206/Data-Structure/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2551-apply-operations-to-an-array](https://github.com/Ansh0206/Data-Structure/tree/master/2551-apply-operations-to-an-array) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ansh0206/Data-Structure/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Ansh0206/Data-Structure/tree/master/1306-jump-game-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh0206/Data-Structure/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph
 |  |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh0206/Data-Structure/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Monotonic Queue
 |  |
@@ -586,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-find-center-of-star-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ansh0206/Data-Structure/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh0206/Data-Structure/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
@@ -597,5 +602,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ansh0206/Data-Structure/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh0206/Data-Structure/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
