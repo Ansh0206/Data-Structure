@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ansh0206/Data-Structure/tree/master/0127-word-ladder) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh0206/Data-Structure/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ansh0206/Data-Structure/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ansh0206/Data-Structure/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ansh0206/Data-Structure/tree/master/0695-max-area-of-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/Ansh0206/Data-Structure/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Ansh0206/Data-Structure/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ansh0206/Data-Structure/tree/master/1971-find-if-path-exists-in-graph) |
