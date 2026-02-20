@@ -56,9 +56,9 @@ class Solution {
 
         // same account ke mail ko merge karna hai
         // step 2
-         for(List<String>acc :  accounts)
+        for(List<String>acc :  accounts)
         {
-            if(acc.size() <=2)continue;
+            // if(acc.size()<=2)continue;
 
             int firstAccountId = emailToId.get(acc.get(1));   // first account ki id
             for(int k = 2; k < acc.size();k++)  // first account mail  ko sabke sath //merge kar rhe   hai
