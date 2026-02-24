@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1285-balance-a-binary-search-tree) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1285-balance-a-binary-search-tree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Ansh0206/Data-Structure/tree/master/1200-minimum-absolute-difference) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh0206/Data-Structure/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/1796-second-largest-digit-in-a-string) |
@@ -443,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ansh0206/Data-Structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
