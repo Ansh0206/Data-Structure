@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0975-range-sum-of-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0975-range-sum-of-bst) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ansh0206/Data-Structure/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ansh0206/Data-Structure/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Ansh0206/Data-Structure/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Ansh0206/Data-Structure/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ansh0206/Data-Structure/tree/master/1020-number-of-enclaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
