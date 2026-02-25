@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Ansh0206/Data-Structure/tree/master/0450-delete-node-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/Ansh0206/Data-Structure/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Ansh0206/Data-Structure/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ansh0206/Data-Structure/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ansh0206/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
@@ -442,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ansh0206/Data-Structure/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Ansh0206/Data-Structure/tree/master/0547-number-of-provinces) |
+| [0662-maximum-width-of-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Ansh0206/Data-Structure/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Ansh0206/Data-Structure/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
