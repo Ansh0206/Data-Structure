@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ansh0206/Data-Structure/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Ansh0206/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ansh0206/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
