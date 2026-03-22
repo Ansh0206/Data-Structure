@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Ansh0206/Data-Structure/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/1796-second-largest-digit-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -480,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ansh0206/Data-Structure/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
