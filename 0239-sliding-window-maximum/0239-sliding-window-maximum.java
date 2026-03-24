@@ -1,28 +1,26 @@
 class Solution {
-    public class Pair{
-        int num;
-        int index;
-        Pair(int num,int index){
-            this.num=num;
-            this.index=index;
-        }
-    }
     public int[] maxSlidingWindow(int[] nums, int k) {
+        Deque<Integer> dq=new ArrayDeque<>();
         int[] ans=new int[nums.length-k+1];
-        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b) -> b.num-a.num);
-        int i=0;
-        int itr=0;
-        for(;i<k;i++){
-            pq.add(new Pair(nums[i],i));
-        }
-        ans[itr++]=pq.peek().num;
-        for(i=k;i<nums.length;i++){
-            pq.add(new Pair(nums[i],i));
-            while(pq.peek().index<=(i-k)){
-                pq.remove();
+        for(int i=0;i<nums.length;i++){
+            while(!dq.isEmpty() && dq.peekFirst()==i-k){
+                //element is  outdated
+                //remove it from the first
+                dq.removeFirst();
             }
-            ans[itr++]=pq.peek().num;
-           
+            //remove the useless element from the last that cant be the part of being in competeion of the max
+            while(!dq.isEmpty() && nums[dq.peekLast()]<nums[i]){
+                dq.removeLast();
+            }
+
+            //add the current element,chances are there that it can be max in the future
+            dq.addLast(i);
+            if(i>=k-1){
+                //window will start
+                ans[i-k+1]=nums[dq.peekFirst()];
+
+            }
+            
         }
         return ans;
         
