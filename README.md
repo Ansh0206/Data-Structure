@@ -329,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ansh0206/Data-Structure/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Ansh0206/Data-Structure/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/Ansh0206/Data-Structure/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Ansh0206/Data-Structure/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Ansh0206/Data-Structure/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Ansh0206/Data-Structure/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ansh0206/Data-Structure/tree/master/0231-power-of-two) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [0784-letter-case-permutation](https://github.com/Ansh0206/Data-Structure/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
