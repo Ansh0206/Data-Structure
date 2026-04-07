@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0518-coin-change-ii) |
+| [0576-out-of-boundary-paths](https://github.com/Ansh0206/Data-Structure/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ansh0206/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Ansh0206/Data-Structure/tree/master/0718-maximum-length-of-repeated-subarray) |
