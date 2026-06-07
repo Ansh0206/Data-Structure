@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ansh0206/Data-Structure/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ansh0206/Data-Structure/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Ansh0206/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Ansh0206/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0240-search-a-2d-matrix-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Ansh0206/Data-Structure/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Ansh0206/Data-Structure/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Ansh0206/Data-Structure/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Ansh0206/Data-Structure/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
