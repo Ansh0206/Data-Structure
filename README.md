@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ansh0206/Data-Structure/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
 | [4107-find-missing-elements](https://github.com/Ansh0206/Data-Structure/tree/master/4107-find-missing-elements) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ansh0206/Data-Structure/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Ansh0206/Data-Structure/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ansh0206/Data-Structure/tree/master/3783-mirror-distance-of-an-integer) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2833-furthest-point-from-origin](https://github.com/Ansh0206/Data-Structure/tree/master/2833-furthest-point-from-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
 ## String
 |  |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Ansh0206/Data-Structure/tree/master/2833-furthest-point-from-origin) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ansh0206/Data-Structure/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3019-number-of-changing-keys](https://github.com/Ansh0206/Data-Structure/tree/master/3019-number-of-changing-keys) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Ansh0206/Data-Structure/tree/master/3675-minimum-operations-to-transform-string) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
@@ -652,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Ansh0206/Data-Structure/tree/master/0062-unique-paths) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
 | ------- |
