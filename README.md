@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh0206/Data-Structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3675-minimum-operations-to-transform-string](https://github.com/Ansh0206/Data-Structure/tree/master/3675-minimum-operations-to-transform-string) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-strictly-palindromic-number](https://github.com/Ansh0206/Data-Structure/tree/master/2481-strictly-palindromic-number) |
 | [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
 | [2630-alternating-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2630-alternating-digit-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh0206/Data-Structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ansh0206/Data-Structure/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/Ansh0206/Data-Structure/tree/master/2727-number-of-senior-citizens) |
 | [2833-furthest-point-from-origin](https://github.com/Ansh0206/Data-Structure/tree/master/2833-furthest-point-from-origin) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Ansh0206/Data-Structure/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh0206/Data-Structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/Ansh0206/Data-Structure/tree/master/3019-number-of-changing-keys) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
