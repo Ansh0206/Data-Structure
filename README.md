@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/Ansh0206/Data-Structure/tree/master/0463-island-perimeter) |
+| [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ansh0206/Data-Structure/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Ansh0206/Data-Structure/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Ansh0206/Data-Structure/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Ansh0206/Data-Structure/tree/master/0233-number-of-digit-one) |
+| [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
+| [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Ansh0206/Data-Structure/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0516-longest-palindromic-subsequence) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 ## Rolling Hash
 |  |
