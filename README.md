@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1901-find-a-peak-element-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ansh0206/Data-Structure/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ansh0206/Data-Structure/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh0206/Data-Structure/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2481-strictly-palindromic-number](https://github.com/Ansh0206/Data-Structure/tree/master/2481-strictly-palindromic-number) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Ansh0206/Data-Structure/tree/master/0274-h-index) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2293-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Ansh0206/Data-Structure/tree/master/2293-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -732,4 +737,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ansh0206/Data-Structure/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ansh0206/Data-Structure/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
