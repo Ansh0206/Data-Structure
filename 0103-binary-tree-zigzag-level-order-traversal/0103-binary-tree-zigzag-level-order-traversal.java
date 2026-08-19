@@ -15,41 +15,34 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> list=new ArrayList<>();
+        List<List<Integer>> ans=new ArrayList<>();
         if(root==null){
-            return list;
-        }
+            return ans;
+        }        
         Queue<TreeNode> q=new LinkedList<>();
-        boolean track=true;
         q.offer(root);
-        q.offer(null);
+        boolean left=true;
         while(!q.isEmpty()){
-            List<Integer> l=new ArrayList<>();
-            while(q.peek()!=null){
+            int sz=q.size();
+            ArrayList<Integer> list=new ArrayList<>();
+            for(int i=0;i<sz;i++){
                 TreeNode curr=q.poll();
-                l.add(curr.val);
+                list.add(curr.val);
+
                 if(curr.left!=null){
-                    q.add(curr.left);
+                    q.offer(curr.left);
                 }
                 if(curr.right!=null){
-                    q.add(curr.right);
+                    q.offer(curr.right);
                 }
             }
-            if(track){    //track==positive  means have travel left to right else right to left
-                list.add(new ArrayList<>(l));
-            }else{
-                list.add(new ArrayList<>(l));
-                Collections.reverse(list.get(list.size()-1));
+            if(!left){
+                Collections.reverse(list);
             }
-            if(q.poll()==null && q.isEmpty()){
-                break;
-            }
-            q.add(null);
-            track=!track;
-
-        }
-        return list;
-
+            ans.add(list);
+            left=!left;
         
+        }
+        return ans;
     }
 }
