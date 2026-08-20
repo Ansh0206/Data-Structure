@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ansh0206/Data-Structure/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ansh0206/Data-Structure/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ansh0206/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/Ansh0206/Data-Structure/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh0206/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ansh0206/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/Ansh0206/Data-Structure/tree/master/0997-find-the-town-judge) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Ansh0206/Data-Structure/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Ansh0206/Data-Structure/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
