@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ansh0206/Data-Structure/tree/master/0733-flood-fill) |
 | [0740-delete-and-earn](https://github.com/Ansh0206/Data-Structure/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Ansh0206/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ansh0206/Data-Structure/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0931-minimum-falling-path-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ansh0206/Data-Structure/tree/master/0944-delete-columns-to-make-sorted) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Ansh0206/Data-Structure/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1200-minimum-absolute-difference](https://github.com/Ansh0206/Data-Structure/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ansh0206/Data-Structure/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
