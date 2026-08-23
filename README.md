@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Ansh0206/Data-Structure/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ansh0206/Data-Structure/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh0206/Data-Structure/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/1796-second-largest-digit-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Ansh0206/Data-Structure/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
+| [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Ansh0206/Data-Structure/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Ansh0206/Data-Structure/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ansh0206/Data-Structure/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -692,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
 |  |
