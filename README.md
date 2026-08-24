@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/Ansh0206/Data-Structure/tree/master/1651-shuffle-string) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1899-count-items-matching-a-rule](https://github.com/Ansh0206/Data-Structure/tree/master/1899-count-items-matching-a-rule) |
 | [1901-find-a-peak-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1901-find-a-peak-element-ii) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ansh0206/Data-Structure/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Ansh0206/Data-Structure/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ansh0206/Data-Structure/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ansh0206/Data-Structure/tree/master/0238-product-of-array-except-self) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Ansh0206/Data-Structure/tree/master/2574-left-and-right-sum-differences) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Ansh0206/Data-Structure/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ansh0206/Data-Structure/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ansh0206/Data-Structure/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 | [1563-stone-game-v](https://github.com/Ansh0206/Data-Structure/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ansh0206/Data-Structure/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 ## Rolling Hash
@@ -761,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -769,5 +775,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
