@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Ansh0206/Data-Structure/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/2248-intersection-of-multiple-arrays) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ansh0206/Data-Structure/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Ansh0206/Data-Structure/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Ansh0206/Data-Structure/tree/master/1677-matrix-diagonal-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1901-find-a-peak-element-ii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/Ansh0206/Data-Structure/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/Ansh0206/Data-Structure/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -687,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ansh0206/Data-Structure/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Ansh0206/Data-Structure/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Memoization
@@ -783,4 +786,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Ansh0206/Data-Structure/tree/master/2029-stone-game-ix) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
