@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ansh0206/Data-Structure/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Ansh0206/Data-Structure/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Ansh0206/Data-Structure/tree/master/0072-edit-distance) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ansh0206/Data-Structure/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Ansh0206/Data-Structure/tree/master/0051-n-queens) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Ansh0206/Data-Structure/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Ansh0206/Data-Structure/tree/master/0055-jump-game) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ansh0206/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Graph Coloring
