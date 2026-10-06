@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Ansh0206/Data-Structure/tree/master/0134-gas-station) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Ansh0206/Data-Structure/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh0206/Data-Structure/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh0206/Data-Structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ansh0206/Data-Structure/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh0206/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh0206/Data-Structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Ansh0206/Data-Structure/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ansh0206/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ansh0206/Data-Structure/tree/master/0721-accounts-merge) |
 | [0784-letter-case-permutation](https://github.com/Ansh0206/Data-Structure/tree/master/0784-letter-case-permutation) |
 | [0856-score-of-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh0206/Data-Structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ansh0206/Data-Structure/tree/master/0944-delete-columns-to-make-sorted) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ansh0206/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/1143-longest-common-subsequence) |
@@ -818,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Ansh0206/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ansh0206/Data-Structure/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ansh0206/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ansh0206/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Graph Coloring
