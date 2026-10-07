@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Ansh0206/Data-Structure/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Ansh0206/Data-Structure/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Ansh0206/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Ansh0206/Data-Structure/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Ansh0206/Data-Structure/tree/master/0583-delete-operation-for-two-strings) |
@@ -546,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ansh0206/Data-Structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Ansh0206/Data-Structure/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Ansh0206/Data-Structure/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/Ansh0206/Data-Structure/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/Ansh0206/Data-Structure/tree/master/0547-number-of-provinces) |
@@ -647,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Ansh0206/Data-Structure/tree/master/0077-combinations) |
 | [0113-path-sum-ii](https://github.com/Ansh0206/Data-Structure/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Ansh0206/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Ansh0206/Data-Structure/tree/master/0357-count-numbers-with-unique-digits) |
 | [0494-target-sum](https://github.com/Ansh0206/Data-Structure/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Ansh0206/Data-Structure/tree/master/0784-letter-case-permutation) |
