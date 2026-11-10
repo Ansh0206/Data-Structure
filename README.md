@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/Ansh0206/Data-Structure/tree/master/3582-find-indices-of-stable-mountains) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Ansh0206/Data-Structure/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3693-climbing-stairs-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3693-climbing-stairs-ii) |
 | [3707-find-the-most-common-response](https://github.com/Ansh0206/Data-Structure/tree/master/3707-find-the-most-common-response) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh0206/Data-Structure/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
@@ -771,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ansh0206/Data-Structure/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3693-climbing-stairs-ii) |
 ## Memoization
 |  |
 | ------- |
