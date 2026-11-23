@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Ansh0206/Data-Structure/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/Ansh0206/Data-Structure/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansh0206/Data-Structure/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ansh0206/Data-Structure/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/Ansh0206/Data-Structure/tree/master/1390-four-divisors) |
 | [1463-cherry-pickup-ii](https://github.com/Ansh0206/Data-Structure/tree/master/1463-cherry-pickup-ii) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/Ansh0206/Data-Structure/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Ansh0206/Data-Structure/tree/master/0877-stone-game) |
 | [1012-numbers-with-repeated-digits](https://github.com/Ansh0206/Data-Structure/tree/master/1012-numbers-with-repeated-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansh0206/Data-Structure/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/Ansh0206/Data-Structure/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Ansh0206/Data-Structure/tree/master/1448-maximum-69-number) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/Ansh0206/Data-Structure/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansh0206/Data-Structure/tree/master/1352-product-of-the-last-k-numbers) |
 | [2169-simple-bank-system](https://github.com/Ansh0206/Data-Structure/tree/master/2169-simple-bank-system) |
 ## Linked List
 |  |
@@ -669,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ansh0206/Data-Structure/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansh0206/Data-Structure/tree/master/1352-product-of-the-last-k-numbers) |
 | [1833-find-the-highest-altitude](https://github.com/Ansh0206/Data-Structure/tree/master/1833-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Ansh0206/Data-Structure/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/Ansh0206/Data-Structure/tree/master/2574-left-and-right-sum-differences) |
@@ -928,4 +932,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ansh0206/Data-Structure/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ansh0206/Data-Structure/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
