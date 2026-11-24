@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-find-subtree-sizes-after-changes](https://github.com/Ansh0206/Data-Structure/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ansh0206/Data-Structure/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Ansh0206/Data-Structure/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Ansh0206/Data-Structure/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ansh0206/Data-Structure/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ansh0206/Data-Structure/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Ansh0206/Data-Structure/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -649,6 +651,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Ansh0206/Data-Structure/tree/master/2747-count-zero-request-servers) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ansh0206/Data-Structure/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ansh0206/Data-Structure/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ansh0206/Data-Structure/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
 |  |
@@ -684,11 +687,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ansh0206/Data-Structure/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Ansh0206/Data-Structure/tree/master/2507-number-of-common-factors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ansh0206/Data-Structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
