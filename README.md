@@ -468,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Ansh0206/Data-Structure/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/Ansh0206/Data-Structure/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ansh0206/Data-Structure/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/Ansh0206/Data-Structure/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Ansh0206/Data-Structure/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Ansh0206/Data-Structure/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ansh0206/Data-Structure/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ansh0206/Data-Structure/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Ansh0206/Data-Structure/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2551-apply-operations-to-an-array](https://github.com/Ansh0206/Data-Structure/tree/master/2551-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/Ansh0206/Data-Structure/tree/master/3360-stone-removal-game) |
 | [3533-snake-in-matrix](https://github.com/Ansh0206/Data-Structure/tree/master/3533-snake-in-matrix) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ansh0206/Data-Structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Design
