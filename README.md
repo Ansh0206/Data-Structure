@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-sum-of-variable-length-subarrays](https://github.com/Ansh0206/Data-Structure/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ansh0206/Data-Structure/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ansh0206/Data-Structure/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ansh0206/Data-Structure/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [4107-find-missing-elements](https://github.com/Ansh0206/Data-Structure/tree/master/4107-find-missing-elements) |
 ## Binary Search
 |  |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3675-minimum-operations-to-transform-string](https://github.com/Ansh0206/Data-Structure/tree/master/3675-minimum-operations-to-transform-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ansh0206/Data-Structure/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ansh0206/Data-Structure/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ansh0206/Data-Structure/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -796,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ansh0206/Data-Structure/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3693-climbing-stairs-ii](https://github.com/Ansh0206/Data-Structure/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ansh0206/Data-Structure/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Memoization
 |  |
 | ------- |
